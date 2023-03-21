@@ -3,8 +3,7 @@
 Aquest és el meu **portfoli** sobre las meves feines de grau superior de *Desenvolupament d'Aplicacions Multiplataforma(DAM).*
 
 Els meus estudis els vaig fer a l'Institut Nicolau Copèrnic.
-![Logo Nicolau Copèrnic]
-<img src ="images/logo·header.png"
+
 
 
 Els moduls que he fet:
