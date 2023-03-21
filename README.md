@@ -4,7 +4,7 @@ Aquest és el meu **portfoli** sobre las meves feines de grau superior de *Desen
 
 Els moduls que he fet:
 -M01:Sistemes Informàtics(https://github.com/Leinad720-cloud/Portfolio/tree/main/Moduls/MP01_MP15UF1)
--M02:Base de Dades.
+-M02:Base de Dades(https://github.com/Leinad720-cloud/Portfolio/tree/main/Moduls/MP02)
 -M03:Programació.
 -M04:Llenguatges de Marques.
 -M12:FOL.
